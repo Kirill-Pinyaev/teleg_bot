@@ -1,0 +1,1 @@
+worker: python osnov.py $PORT
